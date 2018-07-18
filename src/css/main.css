@@ -27,4 +27,6 @@ h1 {
 .baby--right {
   right: 20px;
   width: 50%;
+  cursor: pointer;
+  text-align: right;
 }
